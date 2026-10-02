@@ -1,0 +1,15 @@
+{
+	"name": "mqtt-client",
+	"version": "1.0.0",
+	"description": "Shared MQTT connection, topic routing and state cache for Home Hub components",
+	"license": "ISC",
+	"author": "Ryan Appel",
+	"type": "commonjs",
+	"main": "index.js",
+	"engines": {
+		"node": ">=18"
+	},
+	"dependencies": {
+		"mqtt": "^5.14.0"
+	}
+}
