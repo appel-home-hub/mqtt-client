@@ -7,7 +7,7 @@ This replaces the MQTT half of `state-manager`. Automation enable/settings (`isE
 ## Install (as a submodule)
 
 ```bash
-git submodule add https://github.com/rdappel/home-hub-mqtt-client.git submodules/mqtt-client
+git submodule add https://github.com/appel-home-hub/mqtt-client.git submodules/mqtt-client
 ```
 
 ```json
